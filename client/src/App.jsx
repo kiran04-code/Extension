@@ -1,6 +1,6 @@
 
 import './App.css'
-import JwtDecoderUI from './pages/home'
+import JwtDecoderUI from './pages/Home'
 
 
 function App() {
