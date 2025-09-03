@@ -1,0 +1,8 @@
+@import "tailwindcss";
+html, body, #root {
+  width: 400px;   /* good width for Chrome popup */
+  height: 600px;  /* adjust as needed */
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+}
